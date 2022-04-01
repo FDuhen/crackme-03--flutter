@@ -1,5 +1,6 @@
 # CrackMe03
 ## Le choix dans la date  
+English version below.  
 
 ### Objectif :  
 Accéder à la page "Premium" accessible uniquement aux membres Premiums  
@@ -33,5 +34,45 @@ Si vous êtes bloqué, cliquez longtemps sur le bouton en bas à droite de l'éc
   <summary>2eme indice</summary>
   
   Naviguez dans les paramètres du téléphone, et allez faire un tour dans la partie Date
+  
+</details>
+
+-----------
+
+## DatePicker  
+
+### Objectives :
+Access to the "Premium" page restricted to Premium members.    
+
+### Prerequisites :  
+- Android Platform Tools or ADB on your computer  
+https://developer.android.com/studio/command-line/adb  
+- A device or emulator with a SD card.  
+https://www.genymotion.com/download/
+
+### Steps :
+Download the APK stored in the release page of this repo and install it  
+OR  
+Retrieve the source code (without reading it) and compile it  
+
+### Rules :
+You cannot decompile/compile the app
+
+### Infos : 
+If you're stuck, long press on the icon in the bottom-right of the app's screen  
+
+### Tips to end the crackme :  
+
+<details>
+  <summary>1st tip</summary>
+  
+  Carefully read the crackme's name
+  
+</details>
+
+<details>
+  <summary>2nd tip</summary>
+  
+  Navigate in your phone's settings, and check out the Date parameters
   
 </details>
